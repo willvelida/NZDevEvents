@@ -18,6 +18,7 @@ Anyone is free to contribute to this repo! Check out the [contribution guide](ht
 | ---------- | -------- | --------- | ------- | -------- | --------- | ---- |
 | [Global Game Jam](https://globalgamejam.org/) | Across NZ | 31-Jan-2020 | 02-Feb-2020 | N/A | N/A | Game Dev, Hackathon |
 | [Difinity Conference 2020](https://difinity.co.nz/) | Auckland | 17-Feb-2020 | 20-Feb-2020 | TBC | TBC | Data |
+| [OWASP New Zealand Day 2020](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) | Auckland | 19-Feb-2020 | 21-Feb-2020 | 01-Oct-2019 | 15-Dec-2019 | Security |
 | [SQL Saturday Wellington 2020](https://www.sqlsaturday.com/922/EventHome.aspx) | Wellington | 22-Feb-2020 | 22-Feb-2020 | TBC| TBC | Data |
 | [AgTech Hackathon Manawatu](https://www.agtechhackathon.co.nz/2020-info) | Manawatu | 19-Mar-2020 | 21-Mar-2020 | N/A | N/A | Hackathon |
 | [DevOps Talks Conference](https://devops.talksplus.com/nz/devops.html) | Auckland | 24-Mar-2020 | 25-Mar-2020 | TBC | TBC | DevOps |    
