@@ -16,6 +16,7 @@ Anyone is free to contribute to this repo! Check out the [contribution guide](ht
 
 | Event Name | Location | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | -------- | --------- | ------- | -------- | --------- | ---- |
+| [Hack Aotearoa](http://hackaotearoa.co.nz/?page_id=5) | Auckland | 17-Jan-2020 | 19-Jan-2020 | N/A | N/A | Hackathon, AI |
 | [Global Game Jam](https://globalgamejam.org/) | Across NZ | 31-Jan-2020 | 02-Feb-2020 | N/A | N/A | Game Dev, Hackathon |
 | [Difinity Conference 2020](https://difinity.co.nz/) | Auckland | 17-Feb-2020 | 20-Feb-2020 | TBC | TBC | Data |
 | [OWASP New Zealand Day 2020](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) | Auckland | 19-Feb-2020 | 21-Feb-2020 | 01-Oct-2019 | 15-Dec-2019 | Security |
