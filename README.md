@@ -4,11 +4,11 @@ Taking some inspiration from [Readify's GitHub repo](https://github.com/Readify/
 
 ## FAQ
 
-If you have a question, you can check out the [FAQ]().
+If you have a question, you can check out the [FAQ](https://github.com/willvelida/NZDevEvents/blob/master/FAQ.md).
 
 ## Contributing to this list
 
-Anyone is free to contribute to this repo! Check out the [contribution guide]() on how to do it!
+Anyone is free to contribute to this repo! Check out the [contribution guide](https://github.com/willvelida/NZDevEvents/blob/master/contributing.md) on how to do it!
 
 # Upcoming Events
 
