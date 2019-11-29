@@ -10,6 +10,10 @@ If you have a question, you can check out the [FAQ](https://github.com/willvelid
 
 Anyone is free to contribute to this repo! Check out the [contribution guide](https://github.com/willvelida/NZDevEvents/blob/master/contributing.md) on how to do it!
 
+## Do you list meetups as well?
+
+We sure do! You can check them out [here](https://github.com/willvelida/NZDevEvents/blob/master/meetups.md)
+
 # Upcoming Events
 
 ## 2020
