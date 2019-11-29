@@ -17,6 +17,10 @@ To submit a change using GitHub markdown editor, do the following:
 7. Hit the Propose file change button
 8. After navigating to the next page, hit the Create pull request button
 
+## But I know nothing about Markdown.....
+
+That's ok! (Neither do I to be honest). I've been using this [guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) as a cheatsheet to help me build this repo.
+
 ## What content are you looking for?
 
 * New Zealand based events only please!
