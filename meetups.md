@@ -28,6 +28,7 @@ You can [contribute](https://github.com/willvelida/NZDevEvents/blob/master/contr
 | [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/) | Auckland |
 | [Startup Grind Auckland](https://www.meetup.com/Startup-Grind-Auckland/) | Auckland |
 | [TechTalk](https://www.meetup.com/nz-techtalk/) | Auckland |
+| [Wellington DevOps Group](https://www.meetup.com/Wellington-DevOps-Group/) | Wellington |
 | [Woman in Tech New Zealand](https://www.meetup.com/Women-in-Tech-Meetup-Auckland/) | Auckland |
 
 ### IoT
@@ -45,10 +46,15 @@ You can [contribute](https://github.com/willvelida/NZDevEvents/blob/master/contr
 | [AkJS](https://www.meetup.com/AucklandJS/) | Auckland |
 | [Auckland .NET User Group](https://www.meetup.com/AKL-NET/) | Auckland |
 | [Auckland PHP Meetup Group](https://www.meetup.com/php-auckland/) | Auckland |
+| [freeCodeCamp Wellington](https://www.meetup.com/freeCodeCamp-Wellington/) | Wellington |
 | [Go AKL](https://www.meetup.com/Go-AKL/) | Auckland |
 | [North Shore .NET User Group](https://www.meetup.com/North-Shore-NET-User-Group/) | Auckland |
 | [NZ Python User Group - Auckland](https://www.meetup.com/NZPUG-Auckland/) | Auckland |
+| [NZ Python User Group - Wellington](https://www.meetup.com/NZPUG-Wellington/) | Wellington |
 | [Rusk AKL](https://www.meetup.com/rust-akl/) | Auckland |
+| [Wellington Golang](https://www.meetup.com/wellington-golang/) | Wellington |
+| [wellington.js](https://www.meetup.com/WellingtonJS/) | Wellington |
+| [Wellington .NET User Group](https://www.meetup.com/WelliDotNet/) | Wellington |
 
 ### Data
 
@@ -69,6 +75,7 @@ You can [contribute](https://github.com/willvelida/NZDevEvents/blob/master/contr
 | [Auckland Apache Kafka Meetup](https://www.meetup.com/Auckland-Kafka/) | Auckland |
 | [Auckland Kubernetes Meetup](https://www.meetup.com/Auckland-Kubernetes/) | Auckland |
 | [Docker Auckland](https://www.meetup.com/Docker-Auckland/) | Auckland |
+| [Kafka Wellignton](https://www.meetup.com/Kafka-Wellington/) | Wellington |
 
 ### Mobile Development
 
@@ -96,3 +103,4 @@ You can [contribute](https://github.com/willvelida/NZDevEvents/blob/master/contr
 | Event Name | Location |
 | ---------- | -------- | 
 | [User Experience Auckland](https://www.meetup.com/User-Experience-Auckland/) | Auckland |
+| [User Experience Wellington](https://www.meetup.com/uxwellington/) | Wellington |
