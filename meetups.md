@@ -28,6 +28,7 @@ You can [contribute](https://github.com/willvelida/NZDevEvents/blob/master/contr
 | [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/) | Auckland |
 | [Startup Grind Auckland](https://www.meetup.com/Startup-Grind-Auckland/) | Auckland |
 | [TechTalk](https://www.meetup.com/nz-techtalk/) | Auckland |
+| [Woman in Tech New Zealand](https://www.meetup.com/Women-in-Tech-Meetup-Auckland/) | Auckland |
 
 ### IoT
 
