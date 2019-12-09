@@ -30,6 +30,7 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 | [AgTech Hackathon Manawatu](https://www.agtechhackathon.co.nz/2020-info) | Manawatu | 19-Mar-2020 | 21-Mar-2020 | N/A | N/A | Hackathon |
 | [Future Government 2020](https://nztech.org.nz/event/future-government-2020/) | Wellington | 25-Mar-2020 | 25-Mar-2020 | N/A | N/A | GovTech |
 | [DevOps Talks Conference](https://devops.talksplus.com/nz/devops.html) | Auckland | 24-Mar-2020 | 25-Mar-2020 | TBC | TBC | DevOps |
-| [Climathon Aotearoa](http://www.climathon.nz/_blog) | Wellington | 03-Apr-2020 | 04-Apr-2020 | N/A | N/A | Hackathon |    
+| [Climathon Aotearoa](http://www.climathon.nz/_blog) | Wellington | 03-Apr-2020 | 04-Apr-2020 | N/A | N/A | Hackathon |
+| [Serverless Days Auckland 2020](https://serverless.org.nz/) | Auckland | 20-Apr-2020 | 20-Apr-2020 | 03-Dec-2019 | 02-Mar-2020 | Serverless, Dev |    
 | [Codemania 2020](https://codemania.io/) | Auckland | 06-May-2020 | 06-May-2020 | 18-Nov-2019 | TBC | Tech Talks |
 | [Techweek 2020](https://techweek.co.nz/) | Across NZ | 18-May-2020 | 24-May-2020 | TBC | TBC | Various | 
