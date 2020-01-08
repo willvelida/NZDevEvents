@@ -20,6 +20,7 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 
 | Event Name | Location | Date From | Date To | CFP Open | CFP Close | Tags |
 | ---------- | -------- | --------- | ------- | -------- | --------- | ---- |
+| [IoT Xmas Hackathon](https://www.eventbrite.co.nz/e/iot-xmas-hackathon-tickets-86885433671?aff=eand) | Auckland | 14-Jan-2020 | 15-Jan-2020 | N/A | N/A | Hackathon, IoT |
 | [Hack Aotearoa](http://hackaotearoa.co.nz/?page_id=5) | Auckland | 17-Jan-2020 | 19-Jan-2020 | N/A | N/A | Hackathon, AI |
 | [Global Game Jam](https://globalgamejam.org/) | Across NZ | 31-Jan-2020 | 02-Feb-2020 | N/A | N/A | Game Dev, Hackathon |
 | [World Machine Learning Summit](https://www.eventbrite.com/e/world-machine-learning-summitauckland13-february-2020-tickets-83120324127?aff=ebdssbdestsearch) | Auckland | 13-Feb-2020 | 13-Feb-2020 | N/A | N/A | Machine Learning |
@@ -31,7 +32,7 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 | [Future Government 2020](https://nztech.org.nz/event/future-government-2020/) | Wellington | 25-Mar-2020 | 25-Mar-2020 | N/A | N/A | GovTech |
 | [DevOps Talks Conference](https://devops.talksplus.com/nz/devops.html) | Auckland | 24-Mar-2020 | 25-Mar-2020 | TBC | TBC | DevOps |
 | [Climathon Aotearoa](http://www.climathon.nz/_blog) | Wellington | 03-Apr-2020 | 04-Apr-2020 | N/A | N/A | Hackathon |
-| [Code Camp Wellington]() | Wellington | 04-Apr-2020 | 04-Apr-2020 | 01-Jan-2020 | 07-Feb-2020 | Dev |
+| [Code Camp Wellington](https://www.codecampwellington.nz/#sessions) | Wellington | 04-Apr-2020 | 04-Apr-2020 | 01-Jan-2020 | 07-Feb-2020 | Dev |
 | [Serverless Days Auckland 2020](https://serverless.org.nz/) | Auckland | 20-Apr-2020 | 20-Apr-2020 | 03-Dec-2019 | 02-Mar-2020 | Serverless, Dev |    
 | [Codemania 2020](https://codemania.io/) | Auckland | 06-May-2020 | 06-May-2020 | 18-Nov-2019 | TBC | Tech Talks |
 | [Techweek 2020](https://techweek.co.nz/) | Across NZ | 18-May-2020 | 24-May-2020 | TBC | TBC | Various | 
