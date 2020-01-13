@@ -35,6 +35,7 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 | [DevOps Talks Conference](https://devops.talksplus.com/nz/devops.html) | Auckland | 24-Mar-2020 | 25-Mar-2020 | TBC | TBC | DevOps |
 | [Climathon Aotearoa](http://www.climathon.nz/_blog) | Wellington | 03-Apr-2020 | 04-Apr-2020 | N/A | N/A | Hackathon |
 | [Code Camp Wellington](https://www.codecampwellington.nz/#sessions) | Wellington | 04-Apr-2020 | 04-Apr-2020 | 01-Jan-2020 | 07-Feb-2020 | Dev |
-| [Serverless Days Auckland 2020](https://serverless.org.nz/) | Auckland | 20-Apr-2020 | 20-Apr-2020 | 03-Dec-2019 | 02-Mar-2020 | Serverless, Dev |    
+| [Serverless Days Auckland 2020](https://serverless.org.nz/) | Auckland | 20-Apr-2020 | 20-Apr-2020 | 03-Dec-2019 | 02-Mar-2020 | Serverless, Dev |
+| [Play by Play 2020](https://playbyplay.co.nz/play-by-play-2020-speaker-submissions/) | Wellington | 24-Apr-2020 | 25-Apr-2020 | N/A | 14-Jan-2020 | Game Dev |
 | [Codemania 2020](https://codemania.io/) | Auckland | 06-May-2020 | 06-May-2020 | 18-Nov-2019 | TBC | Tech Talks |
 | [Techweek 2020](https://techweek.co.nz/) | Across NZ | 18-May-2020 | 24-May-2020 | TBC | TBC | Various | 
