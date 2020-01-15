@@ -28,6 +28,7 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 | [Difinity Conference 2020](https://difinity.co.nz/) | Auckland | 17-Feb-2020 | 20-Feb-2020 | TBC | TBC | Data |
 | [OWASP New Zealand Day 2020](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) | Auckland | 19-Feb-2020 | 21-Feb-2020 | 01-Oct-2019 | 15-Dec-2019 | Security |
 | [Boss Hack 2020](https://www.eventbrite.com.au/e/boss-hack-2020-tickets-88439678459?aff=Hackers) | Auckland | 21-Feb-2020 | 23-Feb-2020 | N/A | N/A | AI, Hackathon |
+| [CoJam 2020](https://www.cojam.nz/?fbclid=IwAR3JYDlreFYXT2bcXMdFpkUiR4wjg43cg37oxfkxJ9vSYr_2e0UtAvbBhmE) | Auckland | 22-Feb-2020 | 23-Feb-2020 | N/A | N/A | Hackathon |
 | [SQL Saturday Wellington 2020](https://www.sqlsaturday.com/922/EventHome.aspx) | Wellington | 22-Feb-2020 | 22-Feb-2020 | TBC| TBC | Data |
 | [Full Stack Day New Zealand](https://2020.fullstackday.com/) | Auckland | 18-Mar-2020 | 19-Mar-2020 | 18-Nov-2019 | 20-Dec-2019 | Full-Stack Dev |
 | [AgTech Hackathon Manawatu](https://www.agtechhackathon.co.nz/2020-info) | Manawatu | 19-Mar-2020 | 21-Mar-2020 | N/A | N/A | Hackathon |
