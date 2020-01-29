@@ -30,12 +30,14 @@ We sure do! You can check them out [here](https://github.com/willvelida/NZDevEve
 | [Boss Hack 2020](https://www.eventbrite.com.au/e/boss-hack-2020-tickets-88439678459?aff=Hackers) | Auckland | 21-Feb-2020 | 23-Feb-2020 | N/A | N/A | AI, Hackathon |
 | [CoJam 2020](https://www.cojam.nz/?fbclid=IwAR3JYDlreFYXT2bcXMdFpkUiR4wjg43cg37oxfkxJ9vSYr_2e0UtAvbBhmE) | Auckland | 22-Feb-2020 | 23-Feb-2020 | N/A | N/A | Hackathon |
 | [SQL Saturday Wellington 2020](https://www.sqlsaturday.com/922/EventHome.aspx) | Wellington | 22-Feb-2020 | 22-Feb-2020 | TBC| TBC | Data |
+| [Hack Hawke's Bay](https://www.hakathon.co.nz/) | Hawke's Bay | 28-Feb-2020 | 01-Mar-2020 | N/A | N/A | Hackathon |
 | [Full Stack Day New Zealand](https://2020.fullstackday.com/) | Auckland | 18-Mar-2020 | 19-Mar-2020 | 18-Nov-2019 | 20-Dec-2019 | Full-Stack Dev |
 | [AgTech Hackathon Manawatu](https://www.agtechhackathon.co.nz/2020-info) | Manawatu | 19-Mar-2020 | 21-Mar-2020 | N/A | N/A | Hackathon |
 | [Future Government 2020](https://nztech.org.nz/event/future-government-2020/) | Wellington | 25-Mar-2020 | 25-Mar-2020 | N/A | N/A | GovTech |
 | [DevOps Talks Conference](https://devops.talksplus.com/nz/devops.html) | Auckland | 24-Mar-2020 | 25-Mar-2020 | TBC | TBC | DevOps |
 | [Climathon Aotearoa](http://www.climathon.nz/_blog) | Wellington | 03-Apr-2020 | 04-Apr-2020 | N/A | N/A | Hackathon |
 | [Code Camp Wellington](https://www.codecampwellington.nz/#sessions) | Wellington | 04-Apr-2020 | 04-Apr-2020 | 01-Jan-2020 | 07-Feb-2020 | Dev |
+| [TAIRĀWHITI MRATHON](https://mrathon.github.io/) | Gisbourne | 15-Apr-2020 | 17-Apr_2020 | N/A | N/A | Hackathon |
 | [Serverless Days Auckland 2020](https://serverless.org.nz/) | Auckland | 20-Apr-2020 | 20-Apr-2020 | 03-Dec-2019 | 02-Mar-2020 | Serverless, Dev |
 | [Play by Play 2020](https://playbyplay.co.nz/play-by-play-2020-speaker-submissions/) | Wellington | 24-Apr-2020 | 25-Apr-2020 | N/A | 14-Jan-2020 | Game Dev |
 | [Codemania 2020](https://codemania.io/) | Auckland | 06-May-2020 | 06-May-2020 | 18-Nov-2019 | TBC | Tech Talks |
